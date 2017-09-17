@@ -1,5 +1,5 @@
 # aws_ec2_php
-Connect to AWS ec2 and install php
+#Connect to AWS ec2 and install php
 
 #!/bin/bash
 yum install httpd php php-mysql -y
